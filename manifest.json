@@ -1,7 +1,7 @@
 {
-  "name": "DiscordOrbVideoBypass",
-  "description": "Spoofs Discord badges, text, dates, images, and emails.",
-  "version": "2.9.3",
-  "author": "gooki",
-  "license": "MIT"
+  "name": "BadgeGarcia",
+  "description": "Customização de badges para Kettu/Vendetta.",
+  "author": "apodrecia",
+  "version": "1.0.0",
+  "main": "index.js"
 }
