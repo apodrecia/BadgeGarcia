@@ -1,0 +1,7 @@
+{
+  "name": "BadgeGarcia",
+  "description": "Customização de badges para Kettu/Vendetta.",
+  "author": "apodrecia",
+  "version": "1.0.0",
+  "main": "index.js"
+}
